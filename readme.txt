@@ -5,3 +5,4 @@ Git tracks changes.
 add a dog
 add a cat
 add dogs
+add cats
